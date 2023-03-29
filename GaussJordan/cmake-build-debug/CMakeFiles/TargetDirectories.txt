@@ -1,0 +1,3 @@
+C:/Users/PROBOOK 640/OneDrive/Documentos/GitHub/PracticasCompuI/GaussJordan/cmake-build-debug/CMakeFiles/GaussJordan.dir
+C:/Users/PROBOOK 640/OneDrive/Documentos/GitHub/PracticasCompuI/GaussJordan/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PROBOOK 640/OneDrive/Documentos/GitHub/PracticasCompuI/GaussJordan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
