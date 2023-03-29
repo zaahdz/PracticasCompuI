@@ -203,7 +203,6 @@ void Intercambiar_Filas(matriz & miMatriz)
                     miMatriz[2][j] = fila_temp;
                 }
             } else {
-                // Intercambio de la primera fila con la segunda fila
                 for (int j = 0; j < 4; j++) {
                     int temp = miMatriz[0][j];
                     miMatriz[0][j] = miMatriz[1][j];
