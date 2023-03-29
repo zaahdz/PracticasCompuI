@@ -106,6 +106,7 @@ void ImprimirSolucion(matriz & miMatriz)
 Implementa el algoritmo de Gauss-Jordan sobre 'miMatriz', finalizando en ella la solución del algoritmo.
 No regresa ningún valor.
 */
+// correción: si no tiene solución
 template <typename matriz>
 void GaussJordan(matriz & miMatriz)
 {
